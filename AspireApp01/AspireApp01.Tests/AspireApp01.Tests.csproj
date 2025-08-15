@@ -27,6 +27,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\AspireApp01.AppHost\AspireApp01.AppHost.csproj" />
+    <ProjectReference Include="..\AspireApp01.Web\AspireApp01.Web.csproj" />
+    <ProjectReference Include="..\AspireApp01.ServiceDefaults\AspireApp01.ServiceDefaults.csproj" />
   </ItemGroup>
 
   <ItemGroup>
